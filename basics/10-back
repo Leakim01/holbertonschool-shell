@@ -1,2 +1,2 @@
 #!/bin/bash
-rmdir cd /root
+rmdir cd -
