@@ -1,2 +1,2 @@
 #!/bin/bash
-type /my_first_directory/tmp/imafile
+file /my_first_directory/tmp/imafile
