@@ -1,2 +1,2 @@
 #!/bin/bash
-who -a /etc/passwd | sort
+less /etc/passwd | sort
