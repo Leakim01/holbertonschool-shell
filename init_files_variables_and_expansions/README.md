@@ -1,0 +1,2 @@
+#!/bin/bash
+HOW TO CREATE AN ALIAS
